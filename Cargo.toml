@@ -1,5 +1,5 @@
 [package]
-name = "repl"
+name = "cargo-repl"
 version = "0.0.1"
 authors = ["richard <richard>"]
 edition = "2018"
